@@ -2,6 +2,8 @@
 	,	"description" : "better logging for node."
 	,	"version" : "0.1.0"
 	,	"author" : "Quang Van <quang@orgnote.com>"
+	,	"dependencies" : {	"underscore" : "*"
+										}
 	, "keywords" : ["log", "logging", "console"]
 	, "main" : "log.coffee"
 }
