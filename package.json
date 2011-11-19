@@ -1,0 +1,7 @@
+{ 	"name" : "log"
+	,	"description" : "better logging for node."
+	,	"version" : "0.0.1"
+	,	"author" : "Quang Van <quang@orgnote.com>"
+	, "keywords" : ["log", "logging", "console"]
+	, "main" : "log.coffee"
+}
