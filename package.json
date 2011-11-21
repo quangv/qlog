@@ -5,5 +5,5 @@
 	,	"dependencies" : {	"underscore" : "*"
 										}
 	, "keywords" : ["log", "logging", "console"]
-	, "main" : "log.coffee"
+	, "main" : "log.js"
 }
