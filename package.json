@@ -3,7 +3,8 @@
 	,	"version" : "0.1.0"
 	,	"author" : "Quang Van <quang@orgnote.com>"
 	,	"dependencies" : {	"underscore" : "*"
+                       ,"coffee-script" : "*"
 										}
 	, "keywords" : ["log", "logging", "console"]
-	, "main" : "log.js"
+	, "main" : "index.js"
 }
