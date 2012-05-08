@@ -1,7 +1,7 @@
-{ 	"name" : "log"
+{ 	"name" : "qlog"
 	,	"description" : "better logging for node."
 	,	"version" : "0.1.0"
-	,	"author" : "Quang Van <quang@orgnote.com>"
+	,	"author" : "Quang Van <quangvvv@gmail.com>"
 	,	"dependencies" : {	"underscore" : "*"
                        ,"coffee-script" : "*"
 										}
