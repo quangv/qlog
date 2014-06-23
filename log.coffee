@@ -65,6 +65,6 @@ format = ->
 			results.push 'ELSE_TYPE: '+arg+' ['+typeof arg+']'
 	return results.join(', ')
 
-global.log = module.exports = ->
+module.exports = ->
 	# Output Object Introspection
-	console.log ' log: '+format.apply this, arguments
+	return ' log: '+format.apply this, arguments
