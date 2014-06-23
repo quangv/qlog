@@ -1,6 +1,6 @@
 { 	"name" : "qlog"
 	,	"description" : "pretty powerful console.log for node."
-	,	"version" : "0.1.0"
+	,	"version" : "0.1.1"
 	,	"author" : "Quang Van <quangvvv@gmail.com>"
 	,	"dependencies" : {	"underscore" : "*"
                        ,"coffee-script" : "*"
