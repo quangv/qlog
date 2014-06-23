@@ -1,5 +1,5 @@
 { 	"name" : "qlog"
-	,	"description" : "better logging for node."
+	,	"description" : "pretty powerful console.log for node."
 	,	"version" : "0.1.0"
 	,	"author" : "Quang Van <quangvvv@gmail.com>"
 	,	"dependencies" : {	"underscore" : "*"
