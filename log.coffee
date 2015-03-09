@@ -68,3 +68,6 @@ format = ->
 module.exports = ->
 	# Output Object Introspection
 	return ' log: '+format.apply this, arguments
+
+module.exports.log = ->
+	console.log module.exports.apply this, arguments
