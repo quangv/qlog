@@ -71,3 +71,6 @@ module.exports = ->
 
 module.exports.log = ->
 	console.log module.exports.apply this, arguments
+
+# So you can do `{qlog} = require 'qlog'` to get log method
+module.exports.qlog = module.exports.log
